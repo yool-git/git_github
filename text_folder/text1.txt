@@ -1,8 +1,5 @@
 hello world1
 hello world2
 hello world3
-<<<<<<< HEAD
 hello world4
-=======
-hello world3333
->>>>>>> 6af9939d2eccbd760612c8a2870f59b8d7318331
+hello world java
