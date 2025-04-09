@@ -61,6 +61,12 @@ git reset --soft head~1
 git revert 기존의커밋ID
 git push origin main 
 
+# 작업중인 사항을 임시저장(충돌사항에서 많이 사용)
+git stash
+
+# 저장한 최신의 작업목록을 꺼내기
+git stash pop
+
 
 
 
