@@ -59,7 +59,7 @@ git reset --soft head~1
 
 # push 이후의 취소 -> commit메시지 작성 vi화면으로 이동 -> :wq -> 취소된 커밋을 다시 push
 git revert 기존의커밋ID
-git push origin main
+git push origin main 
 
 
 
